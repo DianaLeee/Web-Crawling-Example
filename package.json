@@ -1,0 +1,23 @@
+{
+  "name": "web-crawling-example",
+  "version": "1.0.0",
+  "description": "Let's do Crawling!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaLeee/Web-Crawling-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaLeee/Web-Crawling-Example/issues"
+  },
+  "homepage": "https://github.com/DianaLeee/Web-Crawling-Example#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
